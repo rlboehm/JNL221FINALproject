@@ -7,16 +7,17 @@ body {
 }
 
 .page-header {
-	color: white;
-	background-color: #58826f;
+	color: whitesmoke;
+	background-color: black;
 	font-size: 25px; 
-	padding-top: 10px;
-	padding-bottom: 0px; 
+	padding-top: 5px;
+	padding-bottom: 5px; 
+	text-align: center;
 }
 
 
 .banner {
-	color: #c20017;
+	color: white;
 	font-size: 16px;
 	font-style: italic;
 	font-variant: small-caps;
@@ -24,13 +25,10 @@ body {
 
 .one {
 	background-color: white;
-	margin-top: 30 px;
-	margin-bottom: 15px;
-	border-bottom:10px solid black;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px; 
+	padding-right: 30px;
 
-}
 
-.graph2{
-	border-right: 15px solid white;
-	border-left: 15px solid white;
 }
