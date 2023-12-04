@@ -1,0 +1,36 @@
+body {
+	font-family: "Roboto", sans-serif;
+	background-color: #58826f;
+	max-width: 800px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.page-header {
+	color: white;
+	background-color: #58826f;
+	font-size: 25px; 
+	padding-top: 10px;
+	padding-bottom: 0px; 
+}
+
+
+.banner {
+	color: #c20017;
+	font-size: 16px;
+	font-style: italic;
+	font-variant: small-caps;
+}
+
+.one {
+	background-color: white;
+	margin-top: 30 px;
+	margin-bottom: 15px;
+	border-bottom:10px solid black;
+
+}
+
+.graph2{
+	border-right: 15px solid white;
+	border-left: 15px solid white;
+}
